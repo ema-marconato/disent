@@ -137,3 +137,7 @@ logs/
 /data/dataset
 /docs/examples/data
 *.pkl
+/ligthning_logs
+/ligthning_logs/*
+/checkpoints
+
